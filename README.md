@@ -1,6 +1,6 @@
 # 🛡️ Community Management Guild Bot
 
-A powerful automated Telegram bot designed to streamline guild management and performance tracking for **Gaming Comunity**. This bot processes complex Excel data to generate insightful reports, track player performance, and automate administrative tasks.
+A powerful automated Telegram bot designed to streamline guild management and performance tracking for **Gaming Community**. This bot processes complex Excel data to generate insightful reports, track player performance, and automate administrative tasks.
 
 Built with **Python**, **Flask**, **Pandas**, and the **Telegram Bot API**.
 
